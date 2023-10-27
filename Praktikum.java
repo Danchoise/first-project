@@ -1,0 +1,8 @@
+pablic class main(){
+
+
+
+
+
+
+}
